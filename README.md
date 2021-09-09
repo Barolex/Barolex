@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Barolex
-- 👀 I’m interested in building the future.
+- 👀 I’m interested in building the future of web.
 - 🌱 I’m currently learning JavaScript, React.
 - 💞️ I’m looking to collaborate on JavaScript, React.
 - 📫 How to reach me TBA
